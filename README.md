@@ -33,6 +33,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifurrahmanpial&layout=compact&theme=" alt=asifurrahmanpial />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifurrahmanpial&layout=compact&theme=transparent" alt=asifurrahmanpial />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=asifurrahmanpial&theme=" alt="asifurrahmanpial" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=asifurrahmanpial&theme=transparent" alt="asifurrahmanpial" /></p>
