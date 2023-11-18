@@ -55,8 +55,6 @@
 </div>  
 <br/>  
 <h3 align="left">📊 Github Stats</h3>
-<div style="display: flex; align-items: flex-start; justify-content: space-around;">
     <img align="left" height="180em" style="object-fit: fit; flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifurrahmanpial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="asifurrahmanpial" />
     <img align="right" height="180em" style="object-fit: fit; flex: 1;" src="https://streak-stats.demolab.com?user=asifurrahmanpial&theme=transparent" alt="asifurrahmanpial" />
-</div>
 
