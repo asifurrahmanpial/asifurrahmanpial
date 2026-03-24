@@ -1,35 +1,72 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Asifur+Rahman...;Glad+to+have+you+here!&center=true&size=30">
-  </a>
-</h1>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<p>- 💻 I'm a full-time front-end developer, and Angular is my weapon of choice for crafting dynamic web applications.<br>- ⌨️ When I'm not coding, I'm delving into the fascinating realm of mechanical keyboards, chasing that perfect tactile feel and personalizing my setup.<br>- 📈 I'm also an entrepreneur, running my own business in the world of mechanical keyboards. It's where my love for technology meets my business acumen.<br>- 📚 I live by the philosophy of continuous learning, always seeking to improve my skills and expand my knowledge.</p>
+<h1 align="center">Asifur Rahman</h1>
 
-<br/>  
-<br/>
-<br/>  
-<br/>
-<h2 align="center">🌐 Connect With Me</h2> 
-<div align="center">
-<a href="https://github.com/asifurrahmanpial" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/asifurrahmanpial" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/asifurrahmanpial" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/>  
-<h2 align="center">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,bootstrap,angular,nodejs,express,nestjs,mongo,git,postman,matlab,md,latex,jest,gulp,figma,&perline=10"  />
+    <a href="https://readme-typing-svg.herokuapp.com">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Frontend+Focus;Building+Frontend+and+Backend+Systems;Mechanical+Keyboard+Enthusiast;Builder+%2B+Entrepreneur"
+             alt="Typing intro" />
+    </a>
 </p>
-<br/>  
-<h2 align="center">📊 Github Stats</h2> 
+
 <p align="center">
-     <img height="175" src="https://streak-stats.demolab.com?user=asifurrahmanpial&theme=transparent" alt="asifurrahmanpial" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifurrahmanpial&layout=compact&theme=transparent" />&nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=asifurrahmanpial&style=flat-square&color=0e75b6"
+         alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/asifurrahmanpial?label=Followers&style=flat-square"
+         alt="GitHub followers" />
+</p>
+
+<p align="center">
+    <img width="320"
+         src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+         alt="Coding gif" />
+</p>
+
+## About Me
+
+- 💻 Software Engineer with a frontend focus, building modern web apps.
+- 🧩 I also work on backend services and APIs when the product needs it.
+- ⚡ I love building fast, clean, and scalable web experiences.
+- ⌨️ Mechanical keyboard nerd when I am away from code.
+- 📈 Entrepreneur in the mechanical keyboard space.
+- 📚 Lifelong learner, always exploring new tools and patterns.
+
+## Connect With Me
+
+<p>
+    <a href="https://asifurrahmanpial-portfolio.vercel.app"
+       target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"
+             alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/asifurrahmanpial"
+       target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+             alt="LinkedIn" />
+    </a>
+</p>
+
+## Tech Stack
+
+<p>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,bootstrap,angular,nodejs,express,nestjs,mongo,git,postman,jest,gulp,figma,md,latex,matlab&perline=10"
+         alt="Skills" />
+</p>
+
+## Typing Speed
+
+<p align="center">
+    <img width="700"
+         src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhxNmVhOXl5ZWQ3eXlqNWowaGQ4a21hMGJkMmU3MXNqbG9tdjc0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pL5rUWE2zFhCcXJ4VX/giphy.gif"
+         alt="Typing speed test" />
+</p>
+
+## Current Focus
+
+- Building polished frontend applications with better architecture and DX.
+- Strengthening full-stack delivery with reliable backend implementations.
+- Growing my mechanical keyboard business and community.
+- Sharing insights through Dev.to and open source contributions.
+
+<p align="center">
+    <i>"Crafting code, collecting switches, and building things people
+        love."</i>
 </p>
